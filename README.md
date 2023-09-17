@@ -31,7 +31,6 @@
 <br/>
 
 <div align="center">
-<h3>🐳 Stats 🐳</h3>
 
 <p>
 
@@ -48,7 +47,7 @@
 
 <p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssong5252)](https://solved.ac/songjy/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
 
 </p>
 </div>
