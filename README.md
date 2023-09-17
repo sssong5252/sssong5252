@@ -43,7 +43,6 @@
 
 <div align="center">
 
-<h3>:trophy: Baekjoon rank  :trophy:</h3>
 
 <p>
 
