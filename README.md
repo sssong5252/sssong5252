@@ -27,20 +27,6 @@
 
 <br/>
 
-
-<br/>
-
-<div align="center">
-
-<p>
-
-[![sssong5252's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssong5252&show_icons=true&bg_color=00000000t)](https://github.com/sssong5252/github-readme-stats)
-
-</p>
-</div>
-
-<br/>
-
 <div align="center">
 
 
