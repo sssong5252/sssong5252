@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 <p> 성결대학교 컴퓨터공학과 송준용 </p>
-<p> Mac & Fedora linux </p>
+<p> Mac & Fedora GNU/Linux </p>
 </div>
 
 <br/>
