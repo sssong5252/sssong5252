@@ -27,10 +27,10 @@
 
 <br/>
 <div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
-	<p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
+	<div>
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
-	</p>
+	</div>
 </div>
 <br/>
 
