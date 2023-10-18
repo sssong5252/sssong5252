@@ -1,4 +1,5 @@
 ### Hi there 👋
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:a82da8&height=300&section=header&text=sssong5252&fontColor=&fontSize=80&animation=waveIn&fontAlignY=38&desc=Junyong's%20GitHub&descAlignY=51&descAlign=62" />
@@ -24,7 +25,7 @@
 	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 	<br/>
 </div>
-<div>
+<div class="d-flex justify-content-around">
 <br/>
 <div align="center">
 	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
@@ -41,3 +42,4 @@
 </p>
 </div>
 </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
