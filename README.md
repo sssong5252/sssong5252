@@ -3,7 +3,7 @@
 	.img_line {
 		display : flex;
 		justify-content : center;
-		heighte : auto;
+		height : auto;
 	}
 </style>
 <div align=center>
