@@ -32,6 +32,8 @@
 <br/>
 <div align="center">
 <p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
+	
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
+ 
 </p>
 </div>
