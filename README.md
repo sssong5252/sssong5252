@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 	<br/>
 </div>
-
+<div>
 <br/>
 <div align="center">
 	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
@@ -39,4 +39,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
 
 </p>
+</div>
 </div>
