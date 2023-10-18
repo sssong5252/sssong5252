@@ -28,12 +28,9 @@
 <br/>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
-	<div>
-		<p>
-			[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
-		</p>
-	</div>
+	
 </div>
 <br/>
-
-
+<p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy)](https://solved.ac/songjy/)
+</p>
