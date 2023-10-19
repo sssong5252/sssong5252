@@ -16,7 +16,7 @@
    <br/>
    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-   <img src="https://img.shields.io/badge/Fedora-#51A2DA?style=for-the-badge&logo=Fedora&logoColor=white">
+   <img src="https://img.shields.io/badge/fedora-#51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
    <br/>
 </div>
 <br/>
