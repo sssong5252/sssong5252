@@ -23,5 +23,5 @@
 <br/>
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy" />
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact)](https://github.com/sssong5252/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=14"/>
 </div>
