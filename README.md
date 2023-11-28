@@ -22,5 +22,5 @@
 <br/>
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy" />
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssong5252&show_icons=true&theme=graywhite)
+   <img src="https://github-readme-stats.vercel.app/api?username=sssong5252&show_icons=true&theme=graywhite" />
 </div>
