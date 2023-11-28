@@ -1,8 +1,5 @@
 ### Hi there👨🏻‍💻👋
-<div align=center>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:a82da8&height=300&section=header&text=sssong5252&fontColor=&fontSize=80&animation=waveIn&fontAlignY=38&desc=Junyong's%20GitHub&descAlignY=51&descAlign=62" />
-<br/>
-</div>
+
 <div align="center">
    <p> 성결대학교 컴퓨터공학과 송준용 </p>
    <p> 🍎Mac & Fedora GNU/Linux</p>
