@@ -12,12 +12,6 @@
 </div>
 <br/>
 <div align="center">
-   <h3>Stack</h3>
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-   <br/>
-</div>
-<br/>
-<br/>
 <br/>
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy" />
