@@ -14,6 +14,4 @@
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy" />
 </div>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssong5252&layout=compact&hide=javascript,html,css&theme=dracula&langs_count=14"/>
-</div>
+
