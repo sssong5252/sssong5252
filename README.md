@@ -16,13 +16,11 @@
 
 <div align="center">
    <h3> 송준용의 비상식량🍖🍗 </h3>
-<a href="https://github.com/devxb/gitanimals">
+   <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/sssong5252"
   width="600"
   height="300"
-/>
-</a>
 />
 </a>
 </div>
