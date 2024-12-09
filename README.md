@@ -13,7 +13,9 @@
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy" />
 </div>
-<div>
+
+<div align="center">
+   <h3> 송준용의 비상식량🍖🍗 </h3>
    <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/sssong5252"
